@@ -7,4 +7,4 @@ of the questions posed in Project Euler. Please, take a look at my solutions and
 on the way I wrote the code, I'm always listening.
 
 Currently completed:
-# 1, 2, 5, 6, 7
+1, 2, 5, 6, 7
